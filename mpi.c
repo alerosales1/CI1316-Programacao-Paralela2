@@ -1,9 +1,3 @@
-/***********************************************************************************/
-/*    para compilar o programa:                  mpicc -o mpi mpi.c                */
-/*    para executar o programa com 4 processos:  mpirun -np 4 ./mpi                */
-/*    para executar o programa com 2 processos:  mpirun -np 2 ./mpi                */
-/*                                                                                 */
-/***********************************************************************************/
 
 #include <stdio.h>
 #include <stdlib.h>
