@@ -7,9 +7,9 @@
 
 #define MAX    256
 #define MASTER   0  // ranque mestre:  não modificar
-//#define COMMENT1     // se não quer os printf para os desc_query colocar esta linha em comentário
-//#define COMMENT2     // se não quer os printf para os seq_dna com resultado colocar esta linha em comentário
-//#define COMMENT3     // se não quer os printf para os seq_dna sem resultado  colocar esta linha em comentário
+//#define COMMENT1     
+//#define COMMENT2     
+//#define COMMENT3     
 
 // Cor de texto no stdout
 #define KNRM  "\x1B[0m"   // normal
